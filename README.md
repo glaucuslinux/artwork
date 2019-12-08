@@ -7,39 +7,39 @@
 #### glaucus logo
 ![_glaucus logo_](https://github.com/firasuke/glaucus-artwork/blob/master/glaucus-logo.svg)
 
-Licensed under the terms of the CC-BY-SA-4.0 License
+"glaucus-logo.svg" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 #### glaucus logo black
 ![_glaucus logo black_](https://github.com/firasuke/glaucus-artwork/blob/master/glaucus-logo-black.png)
 
-Licensed under the terms of the CC-BY-SA-4.0 License
+"glaucus-logo-black.png" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 #### glaucus logo black bg
 ![_glaucus logo black bg_](https://github.com/firasuke/glaucus-artwork/blob/master/glaucus-logo-black-bg.png)
 
-Licensed under the terms of the CC-BY-SA-4.0 License
+"glaucus-logo-black-bg.png" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 #### glaucus logo white
 ![_glaucus logo white_](https://github.com/firasuke/glaucus-artwork/blob/master/glaucus-logo-white.png)
 
-Licensed under the terms of the CC-BY-SA-4.0 License
+"glaucus-logo-white.png" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 #### glaucus logo white bg
 ![_glaucus logo white bg_](https://github.com/firasuke/glaucus-artwork/blob/master/glaucus-logo-white-bg.png)
 
-Licensed under the terms of the CC-BY-SA-4.0 License
+"glaucus-logo-white-bg.png" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 ### Sketches
 
-#### glaucus Sketches
+#### Glaucus Sketches
 ![_glaucus Sketches_](https://github.com/firasuke/glaucus-artwork/blob/master/Glaucus-Sketches.jpg)
 
-Licensed under the terms of the CC-BY-SA-4.0 License
+"Glaucus-Sketches.jpg" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
-#### Tux Puffy glaucus
+#### Tux Puffy Glaucus
 ![_Tux Puffy glaucus_](https://github.com/firasuke/glaucus-artwork/blob/master/Tux-Puffy-Glaucus.jpg)
 
-Licensed under the terms of the CC-BY-SA-4.0 License
+"Tux-Puffy-Glaucus.jpg" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 ## More Ideas
 Some artwork ideas:
