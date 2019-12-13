@@ -1,4 +1,4 @@
-# glaucus artwork
+# glaucus's artwork
 
 ## Andy Cuccaro
 
