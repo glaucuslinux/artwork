@@ -55,3 +55,11 @@ https://github.com/glaucuslinux/glaucus/wiki/Naming-Convention) page on the wiki
 you didn't understand a word of what I just said).
 
 Please submit your artwork/ideas to firasuke@gmail.com
+
+## Mirrors
+* [GitHub](https://github.com/glaucuslinux/artwork)
+* [GitLab](https://gitlab.com/glaucuslinux/artwork)
+* [NotABug](https://notabug.org/glaucuslinux/artwork)
+* [BitBucket](https://bitbucket.org/glaucuslinux/artwork)
+* [Framagit](https://framagit.org/glaucuslinux/artwork)
+* [SourceForge](https://git.code.sf.net/p/glaucuslinux/artwork)
