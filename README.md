@@ -62,9 +62,10 @@ you didn't understand a word of what I just said).
 Please submit your artwork/ideas to firasuke@gmail.com
 
 ## Mirrors
+* [BitBucket](https://bitbucket.org/glaucuslinux/artwork)
+* [Framagit](https://framagit.org/glaucuslinux/artwork)
 * [GitHub](https://github.com/glaucuslinux/artwork)
 * [GitLab](https://gitlab.com/glaucuslinux/artwork)
 * [NotABug](https://notabug.org/glaucuslinux/artwork)
-* [BitBucket](https://bitbucket.org/glaucuslinux/artwork)
-* [Framagit](https://framagit.org/glaucuslinux/artwork)
 * [SourceForge](https://git.code.sf.net/p/glaucuslinux/artwork)
+* [SourceHut](https://git.sr.ht/~glaucuslinux/artwork)
