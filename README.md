@@ -1,4 +1,7 @@
 # artwork
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/75d5524a432b4ee8b0a5eccd29474594)](https://app.codacy.com/gh/glaucuslinux/artwork?utm_source=github.com&utm_medium=referral&utm_content=glaucuslinux/artwork&utm_campaign=Badge_Grade_Dashboard)
+
 [![Join the chat at https://gitter.im/glaucuslinux/artwork](
 https://badges.gitter.im/glaucuslinux/artwork.svg)](
 https://gitter.im/glaucuslinux/artwork?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
