@@ -49,10 +49,10 @@ glaucus's artwork
 ## More Ideas
 Some artwork ideas:
 
-- glaucus loves swimming in the sea (the network sea) with Tux (the Linux
+*   glaucus loves swimming in the sea (the network sea) with Tux (the Linux
 mascot) and Puffy (the OpenBSD mascot)
 
-- all 4 flavours of glaucus swimming together with atlanticus leading the pack,
+*   all 4 flavours of glaucus swimming together with atlanticus leading the pack,
 and thompsoni as his right-hand scientist that ensures they're all secure, and
 bennettae being the smallest of the bunch, and albino being the purest of them
 all (refer to the [Naming Convention](
@@ -62,10 +62,10 @@ you didn't understand a word of what I just said).
 Please submit your artwork/ideas to firasuke@gmail.com
 
 ## Mirrors
-* [BitBucket](https://bitbucket.org/glaucuslinux/artwork)
-* [Framagit](https://framagit.org/glaucuslinux/artwork)
-* [GitHub](https://github.com/glaucuslinux/artwork)
-* [GitLab](https://gitlab.com/glaucuslinux/artwork)
-* [NotABug](https://notabug.org/glaucuslinux/artwork)
-* [SourceForge](https://git.code.sf.net/p/glaucuslinux/artwork)
-* [SourceHut](https://git.sr.ht/~glaucuslinux/artwork)
+*   [BitBucket](https://bitbucket.org/glaucuslinux/artwork)
+*   [Framagit](https://framagit.org/glaucuslinux/artwork)
+*   [GitHub](https://github.com/glaucuslinux/artwork)
+*   [GitLab](https://gitlab.com/glaucuslinux/artwork)
+*   [NotABug](https://notabug.org/glaucuslinux/artwork)
+*   [SourceForge](https://git.code.sf.net/p/glaucuslinux/artwork)
+*   [SourceHut](https://git.sr.ht/~glaucuslinux/artwork)
