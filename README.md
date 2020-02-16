@@ -64,6 +64,18 @@ you didn't understand a word of what I just said).
 
 Please submit your artwork/ideas to firasuke@gmail.com
 
+## Community
+*   [Discord](https://discord.gg/gZSHj65)
+*   [Gitter](https://gitter.im/glaucuslinux/artwork)
+*   [Reddit](https://www.reddit.com/r/glaucus)
+*   [Telegram](https://t.me/glaucuslinux)
+
+## Donate
+*   [Ko-fi](https://ko-fi.com/glaucuslinux)
+*   [Liberapay](https://liberapay.com/glaucuslinux)
+*   [Patreon](https://www.patreon.com/glaucuslinux)
+*   [PayPal](https://www.paypal.me/glaucuslinux)
+
 ## Mirrors
 *   [BitBucket](https://bitbucket.org/glaucuslinux/artwork)
 *   [Framagit](https://framagit.org/glaucuslinux/artwork)
