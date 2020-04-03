@@ -65,7 +65,7 @@ Please submit your artwork/ideas to <[firasuke@glaucuslinux.org](
 mailto:firasuke@glaucuslinux.org)>
 
 ## Community
-* [Discord](https://discord.gg/gZSHj65)
+* [Discord](https://discord.gg/nDKNmNc)
 * [Gitter](https://gitter.im/glaucuslinux/artwork)
 * [Reddit](https://www.reddit.com/r/glaucus)
 * [Telegram](https://t.me/glaucuslinux)
