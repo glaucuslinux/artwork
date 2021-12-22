@@ -72,6 +72,7 @@ mailto:firasuke@glaucuslinux.org)>
 
 ## Mirrors
 * [BitBucket](https://bitbucket.org/glaucuslinux/artwork)
+* [Codeberg](https://codeberg.org/glaucuslinux/artwork)
 * [Framagit](https://framagit.org/glaucuslinux/artwork)
 * [GitHub](https://github.com/glaucuslinux/artwork)
 * [GitLab](https://gitlab.com/glaucuslinux/artwork)
