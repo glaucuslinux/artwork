@@ -13,38 +13,38 @@ glaucus's artwork
 ### Logo
 
 #### glaucus logo
-![glaucus logo](Andy Cuccaro/Logo/glaucus-logo.svg)
+![glaucus logo](Andy%20Cuccaro/Logo/glaucus-logo.svg)
 
 "glaucus-logo.svg" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 #### glaucus logo black
-![glaucus logo black](Andy Cuccaro/Logo/glaucus-logo-black.png)
+![glaucus logo black](Andy%20Cuccaro/Logo/glaucus-logo-black.png)
 
 "glaucus-logo-black.png" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 #### glaucus logo black bg
-![glaucus logo black bg](Andy Cuccaro/Logo/glaucus-logo-black-bg.png)
+![glaucus logo black bg](Andy%20Cuccaro/Logo/glaucus-logo-black-bg.png)
 
 "glaucus-logo-black-bg.png" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 #### glaucus logo white
-![glaucus logo white](Andy Cuccaro/Logo/glaucus-logo-white.png)
+![glaucus logo white](Andy%20Cuccaro/Logo/glaucus-logo-white.png)
 
 "glaucus-logo-white.png" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 #### glaucus logo white bg
-![glaucus logo white bg](Andy Cuccaro/Logo/glaucus-logo-white-bg.png)
+![glaucus logo white bg](Andy%20Cuccaro/Logo/glaucus-logo-white-bg.png)
 
 "glaucus-logo-white-bg.png" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 ### Sketches
 #### Glaucus Sketches
-![glaucus Sketches](Andy Cuccaro/Sketches/Glaucus-Sketches.jpg)
+![glaucus Sketches](Andy%20Cuccaro/Sketches/Glaucus-Sketches.jpg)
 
 "Glaucus-Sketches.jpg" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 #### Tux Puffy Glaucus
-![Tux Puffy glaucus](Andy Cuccaro/Sketches/Tux-Puffy-Glaucus.jpg)
+![Tux Puffy glaucus](Andy%20Cuccaro/Sketches/Tux-Puffy-Glaucus.jpg)
 
 "Tux-Puffy-Glaucus.jpg" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
