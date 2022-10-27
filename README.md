@@ -382,7 +382,7 @@ d8P' ?88  ?88  d8P' ?88  d88   88 d8P' `Pd88   88  ?8b,
 * [Reddit](https://www.reddit.com/r/glaucus)
 * [Telegram](https://t.me/glaucuslinux)
 * [Twitter](https://twitter.com/glaucuslinux)
-* [YouTube](https://www.youtube.com/channel/UCOpZsBcIF2NvJHuzdP1UP_w)
+* [YouTube](https://www.youtube.com/@glaucuslinux)
 
 ## Mirrors
 * [BitBucket](https://bitbucket.org/glaucuslinux/artwork)
