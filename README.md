@@ -388,5 +388,4 @@ d8P' ?88  ?88  d8P' ?88  d88   88 d8P' `Pd88   88  ?8b,
 * [GitHub](https://github.com/glaucuslinux/artwork)
 * [GitLab](https://gitlab.com/glaucuslinux/artwork)
 * [NotABug](https://notabug.org/glaucuslinux/artwork)
-* [SourceForge](https://git.code.sf.net/p/glaucuslinux/artwork)
 * [SourceHut](https://git.sr.ht/~glaucuslinux/artwork)
