@@ -5,10 +5,84 @@ https://gitter.im/glaucuslinux/artwork?utm_source=badge&utm_medium=badge&utm_cam
 
 glaucus's artwork
 
+## Adnan Summakia
+### logo-01
+![logo-01](Adnan%20Summakia/logo-01.svg)
+
+"logo-01.svg" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### logo
+![logo](Adnan%20Summakia/logo.svg)
+
+"logo.svg" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### logo-transparent-01
+![logo-transparent-01](Adnan%20Summakia/logo-transparent-01.png)
+
+"logo-transparent-01.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### logo-transparent
+![logo-transparent](Adnan%20Summakia/logo-transparent.png)
+
+"logo-transparent.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### mobile-bg-dark
+![mobile-bg-dark](Adnan%20Summakia/mobile-bg-dark.png)
+
+"mobile-bg-dark.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### mobile-bg-horizontal-dark
+![mobile-bg-horizontal-dark](Adnan%20Summakia/mobile-bg-horizontal-dark.png)
+
+"mobile-bg-horizontal-dark.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### mobile-bg-horizontal
+![mobile-bg-horizontal](Adnan%20Summakia/mobile-bg-horizontal.png)
+
+"mobile-bg-horizontal.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### mobile-bg-symbol-dark
+![mobile-bg-symbol-dark](Adnan%20Summakia/mobile-bg-symbol-dark.png)
+
+"mobile-bg-symbol-dark.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### mobile-bg-symbol
+![mobile-bg-symbol](Adnan%20Summakia/mobile-bg-symbol.png)
+
+"mobile-bg-symbol.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### monochromatic-logo-transparent
+![monochromatic-logo-transparent](Adnan%20Summakia/monochromatic-logo-transparent.png)
+
+"monochromatic-logo-transparent.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### wallpaper-dark-01
+![wallpaper-dark-01](Adnan%20Summakia/wallpaper-dark-01.png)
+
+"wallpaper-dark-01.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### wallpaper-dark
+![wallpaper-dark](Adnan%20Summakia/wallpaper-dark.png)
+
+"wallpaper-dark.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### wallpaper-thin
+![wallpaper-thin](Adnan%20Summakia/wallpaper-thin.png)
+
+"wallpaper-thin.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### wallpaper-white-01
+![wallpaper-white-01](Adnan%20Summakia/wallpaper-white-01.png)
+
+"wallpaper-white-01.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
+### wallpaper-white
+![wallpaper-white](Adnan%20Summakia/wallpaper-white.png)
+
+"wallpaper-white.png" by Adnan Summakia is licensed under CC-BY-SA-4.0
+
 ## Andy Cuccaro
-
 ### Logo
-
 #### glaucus logo
 ![glaucus logo](Andy%20Cuccaro/Logo/glaucus-logo.svg)
 
