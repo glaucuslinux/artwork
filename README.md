@@ -456,10 +456,8 @@ d8P' ?88  ?88  d8P' ?88  d88   88 d8P' `Pd88   88  ?8b,
 * [YouTube](https://www.youtube.com/@glaucuslinux)
 
 ## Mirrors
-* [BitBucket](https://bitbucket.org/glaucuslinux/artwork)
 * [Codeberg](https://codeberg.org/glaucuslinux/artwork)
 * [Framagit](https://framagit.org/glaucuslinux/artwork)
 * [GitHub](https://github.com/glaucuslinux/artwork)
 * [GitLab](https://gitlab.com/glaucuslinux/artwork)
-* [NotABug](https://notabug.org/glaucuslinux/artwork)
 * [SourceHut](https://git.sr.ht/~glaucuslinux/artwork)
