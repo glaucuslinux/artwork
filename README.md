@@ -1,8 +1,4 @@
 # artwork
-[![Join the chat at https://gitter.im/glaucuslinux/artwork](
-https://badges.gitter.im/glaucuslinux/artwork.svg)](
-https://gitter.im/glaucuslinux/artwork?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 glaucus's artwork
 
 ## Adnan Summakia
