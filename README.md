@@ -443,6 +443,17 @@ d8P' ?88  ?88  d8P' ?88  d88   88 d8P' `Pd88   88  ?8b,
 
 ```
 
+## Sukiru (kojq)
+### glaucus complex
+![glaucus-complex](Sukiru%20(kojq)/glaucus-complex.svg)
+
+"glaucus-complex.svg" by [Sukiru (kojq)](https://github.com/kojq) is licensed under CC-BY-SA-4.0
+
+### glaucus simple
+![glaucus-simple](Sukiru%20(kojq)/glaucus-simple.svg)
+
+"glaucus-simple.svg" by [Sukiru (kojq)](https://github.com/kojq) is licensed under CC-BY-SA-4.0
+
 ## Community
 * [Discord](https://discord.gg/nDKNmNc)
 * [Reddit](https://www.reddit.com/r/glaucus)
