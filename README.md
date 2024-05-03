@@ -1,5 +1,5 @@
 # artwork
-glaucus's artwork
+glaucus artwork
 
 ## Adnan Summakia
 ### logo
