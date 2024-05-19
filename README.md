@@ -105,15 +105,15 @@ glaucus artwork
 "glaucus-logo-white-bg.png" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 ### Sketches
-#### Glaucus Sketches
-![glaucus Sketches](Andy%20Cuccaro/Sketches/Glaucus-Sketches.jpg)
+#### glaucus Sketches
+![glaucus Sketches](Andy%20Cuccaro/Sketches/glaucus-Sketches.jpg)
 
-"Glaucus-Sketches.jpg" by Andy Cuccaro is licensed under CC-BY-SA-4.0
+"glaucus-Sketches.jpg" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
-#### Tux Puffy Glaucus
-![Tux Puffy glaucus](Andy%20Cuccaro/Sketches/Tux-Puffy-Glaucus.jpg)
+#### Tux Puffy glaucus
+![Tux Puffy glaucus](Andy%20Cuccaro/Sketches/Tux-Puffy-glaucus.jpg)
 
-"Tux-Puffy-Glaucus.jpg" by Andy Cuccaro is licensed under CC-BY-SA-4.0
+"Tux-Puffy-glaucus.jpg" by Andy Cuccaro is licensed under CC-BY-SA-4.0
 
 ## ASCII
 ### glaucus big
