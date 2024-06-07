@@ -455,15 +455,15 @@ d8P' ?88  ?88  d8P' ?88  d88   88 d8P' `Pd88   88  ?8b,
 "glaucus-simple.svg" by [Sukiru (kojq)](https://github.com/kojq) is licensed under CC-BY-SA-4.0
 
 ## Community
-* [Discord](https://discord.gg/nDKNmNc)
-* [Reddit](https://www.reddit.com/r/glaucus)
-* [Telegram](https://t.me/glaucuslinux)
-* [Twitter](https://twitter.com/glaucuslinux)
-* [YouTube](https://www.youtube.com/@glaucuslinux)
+- [Discord](https://discord.gg/nDKNmNc)
+- [Reddit](https://www.reddit.com/r/glaucus)
+- [Telegram](https://t.me/glaucuslinux)
+- [Twitter](https://twitter.com/glaucuslinux)
+- [YouTube](https://www.youtube.com/@glaucuslinux)
 
 ## Mirrors
-* [Codeberg](https://codeberg.org/glaucuslinux/artwork)
-* [Framagit](https://framagit.org/glaucuslinux/artwork)
-* [GitHub](https://github.com/glaucuslinux/artwork)
-* [GitLab](https://gitlab.com/glaucuslinux/artwork)
-* [SourceHut](https://git.sr.ht/~glaucuslinux/artwork)
+- [Codeberg](https://codeberg.org/glaucuslinux/artwork)
+- [Framagit](https://framagit.org/glaucuslinux/artwork)
+- [GitHub](https://github.com/glaucuslinux/artwork)
+- [GitLab](https://gitlab.com/glaucuslinux/artwork)
+- [SourceHut](https://git.sr.ht/~glaucuslinux/artwork)
