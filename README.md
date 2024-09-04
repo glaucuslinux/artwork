@@ -463,7 +463,6 @@ d8P' ?88  ?88  d8P' ?88  d88   88 d8P' `Pd88   88  ?8b,
 
 ## Mirrors
 - [Codeberg](https://codeberg.org/glaucuslinux/artwork)
-- [Framagit](https://framagit.org/glaucuslinux/artwork)
 - [GitHub](https://github.com/glaucuslinux/artwork)
 - [GitLab](https://gitlab.com/glaucuslinux/artwork)
 - [SourceHut](https://git.sr.ht/~glaucuslinux/artwork)
