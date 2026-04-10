@@ -479,12 +479,6 @@ d8P' ?88  ?88  d8P' ?88  d88   88 d8P' `Pd88   88  ?8b,
 
 ```
 
-## Community
-- [Reddit](https://reddit.com/r/glaucus)
-- [Telegram](https://t.me/glaucuslinux)
-- [X](https://x.com/glaucuslinux)
-- [YouTube](https://youtube.com/@glaucuslinux)
-
 ## Mirrors
 - [Codeberg](https://codeberg.org/glaucuslinux/artwork)
 - [GitHub](https://github.com/glaucuslinux/artwork)
